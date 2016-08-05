@@ -1,0 +1,6 @@
+{
+  "name": "Spotippos Coding Challenge",
+  "description": "A implementation of Spotippos Coding Challenge",
+  "website": "https://github.com/tavlima/code-challenge-spotippos-nodejs",
+  "addons": ["mongolab:sandbox"]
+}
